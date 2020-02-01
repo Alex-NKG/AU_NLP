@@ -5,4 +5,4 @@ some useful NLP algorithm/function may add
 ## W2
 1. function: The Flesch-Kincaid Reading Ease Score
 2. function: Syllable Counting
-3. funcyion: file auto load
+3. function: file auto load
